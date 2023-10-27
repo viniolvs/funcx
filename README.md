@@ -73,6 +73,7 @@ $ globus-compute-endpoint list
 
 ### Executando uma Função
 - Crie um arquivo .py com o seguinte código:
+
 ```python
 from globus_compute_sdk import Executor
 
@@ -95,3 +96,5 @@ with Executor(endpoint_id=tutorial_endpoint_id) as gce:
 $ python3 <nomeDoArquivo>.py
 15
 ```
+
+- Documentação do executor [docs](https://funcx.readthedocs.io/en/latest/executor.html)
