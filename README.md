@@ -1,5 +1,6 @@
 # Funcx demo
 
+- Referência ferramenta: [funcx](https://funcx.org/) 
 - Referência tutorial: [Quickstart](https://funcx.readthedocs.io/en/latest/quickstart.html) 
 
 ## Pré-requisitos
